@@ -167,7 +167,7 @@ version and lets you check right away.
   send, so they reach your friends. Your password is stored scrambled and can't be read
   back, even by the FENRIX team.
 - **Moderation:** to keep FENRIX safe and remove illegal content, **the FENRIX admin can read
-  DMs** and can mute or ban accounts.
+  DMs when a report is made** and can mute or ban accounts.
 - **Your controls:** block anyone, appear **Invisible**, and delete your account (with your
   pictures and files) from **Settings → Account**.
 - **On your PC:** **Settings → Data & Privacy** lists everything FENRIX keeps on your computer.
